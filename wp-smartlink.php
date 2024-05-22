@@ -11,8 +11,8 @@
  * @wordpress-plugin
  * Plugin Name:       WP Smartlink
  * Plugin URI:        https://werbe-sofa.de
- * Description:       Fügt wichtige Funktionen hinzu zur WordPress-Instanz
- * Version:           1.6.1
+ * Description:       WP Smartlink ist ein benutzerfreundliches Plugin, mit dem du eine Seite zur Auflistung aller deiner Social Media Links und wichtigen Links erstellen kannst. Verwalte Bild, Titel und Links im WordPress-Dashboard und füge sie mithilfe des Shortcodes [wp_smartlink] an beliebiger Stelle deiner Website ein.
+ * Version:           1.0.1
  * Requires at least: 6.0.0
  * Requires PHP:      7.4
  * Author:            Alec Seidemann
@@ -20,7 +20,7 @@
  * Text Domain:       wp-smartlink
  * License:           GPL v3 or later
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
- * GitHub Plugin URI: https://github.com/supaaboy/wp-smartlink
+ * GitHub Plugin URI: https://github.com/supaaboy/WP-Smartlink
  */
 
 if (!defined('ABSPATH')) {
