@@ -33,5 +33,4 @@ define('SMARTLINK_URL', plugins_url('', __FILE__));
 
 // Require smartlink libraries
 require_once SMARTLINK_ROOT . '/src/libraries/config.php';
-require_once SMARTLINK_ROOT . '/src/libraries/core.php';
 require_once SMARTLINK_ROOT . '/src/libraries/bootstrap.php';
